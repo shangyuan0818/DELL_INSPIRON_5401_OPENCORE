@@ -29,9 +29,9 @@ EFI exclusively for Dell Inspiron 5401 with OpenCore bootloader(If your computer
 - Usb port mapping may need to redo (camera may not working if not redo)
 - SSDT-dGPU-Off need to be changed.([fullversion](https://dortania.github.io/Getting-Started-With-ACPI/Desktops/desktop-disable.html#finding-the-acpi-path-of-the-gpu))
 ![dgpu-bios](./helper/dgpu-bios.png)
-![dgpu-change1](.helper/dgpu-change1.png)
-![dgpu-change2](.helper/dgpu-change2.png)
-![dgpu-change3](.helper/dgpu-change3.png)
+![dgpu-change1](./helper/dgpu-change1.png)
+![dgpu-change2](./helper/dgpu-change2.png)
+![dgpu-change3](./helper/dgpu-change3.png)
 
 ## Credits:
 - [Apple](https://apple.com) for macOS.
