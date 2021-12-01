@@ -15,8 +15,7 @@ EFI exclusively for Dell Inspiron 5401 with OpenCore bootloader(If your computer
 | Audio            | Realtek High Definition Audio      |
 | Ram              | 8 GB DDR4 3200 Mhz                 |
 | Wifi + Bluetooth | BCM94352Z (DW1560)                 |
-| NVMe             | KIOXIA KBG40ZNS512G 512 GB (WINDOWS)       |
-| NVME             | SAMSUNG 970 EVO PLUS 500 GB (MACOS)|
+| NVMe             | KIOXIA KBG40ZNS512G 512 GB (WINDOWS+MACOS)       |
 | SmBios           | MacBookPro 16,2                    |
 | BootLoader       | OpenCore 0.7.6                     |
 | macOS            | Monterey 12.0.1                    |
