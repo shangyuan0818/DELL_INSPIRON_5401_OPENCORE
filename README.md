@@ -2,7 +2,7 @@
 
 
 
-EFI exclusively for Dell Inspiron 5401 with OpenCore bootloader(If your computer is not Inspiron 5401, then please go to [Lorys89¡¯s repository](https://github.com/Lorys89/DELL_VOSTRO_5401-ICE-LAKE) and use the universal one)
+EFI exclusively for Dell Inspiron 5401 with OpenCore bootloader(If your computer is not Inspiron 5401, then please go to [Lorys89's repository](https://github.com/Lorys89/DELL_VOSTRO_5401-ICE-LAKE) and use the universal one)
 
 ![descrizione](https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/inspiron_notebooks/14_5401_5408/global_spi/ng/notebook-inspiron-14-5401-nt-silver-silver-kb-mockingbird-n5-relsize-500-ng.psd?fmt=jpg)
 
