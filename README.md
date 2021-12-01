@@ -11,7 +11,7 @@ EFI exclusively for Dell Inspiron 5401 with OpenCore bootloader(If your computer
 | Component        | Brank                              |
 | ---------------- | ---------------------------------- |
 | CPU              | Intel i5 1035G1 (4C-8T)            |
-| iGPU             | Intel? Iris Plus Graphics          |
+| iGPU             | Intel® Iris Plus Graphics          |
 | Audio            | Realtek High Definition Audio      |
 | Ram              | 8 GB DDR4 3200 Mhz                 |
 | Wifi + Bluetooth | BCM94352Z (DW1560)                 |
